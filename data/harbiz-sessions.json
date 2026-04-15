@@ -1,0 +1,1686 @@
+[
+  {
+    "date": "Martes 14 Abril",
+    "workout": {
+      "_id": "onj2y2vMdhhCXd6Pz",
+      "name": "Gi Power FUERZA (Sentadilla 6-4-2 / Dominada lastrada + Australiano + Twist  // EMOM Farmer + Burpee over KB) 45'*",
+      "description": "ACTIVATION EMON 9': Every Minute On the Minute. Tenemos que realizar cada uno de los ejercicios dentro del minuto. Puedes partir las repeticiones como consideres. No puedes empezar el siguiente ejercicio hasta que no finalice el minuto. El tiempo que te sobre dentro del minuto descansa.\n3 rondas de\nMin 1: 8+8 Plancha con tracción\nMin2: 8+8 step up to press\nMin3: 80-100 saltos comba\nSTRENGH: Dos bloques:\nPrimer bloque:\nSentadilla 2x(6-4-2 @80-90% Haz un par de series de aproximación previas a empezar. \nSegundo Bloque:\nDominada lastrada + Australiano + Twist. Todo seguido sin parón entre ellos lo justo para cambiar de material. \nDominadas: Ajusta las dominadas a un número que puedas mantener las tres rondas. Si no llegas al mínimo hazlo sin lastre o utiliza una goma que te ayude a llegar a 6-8reps. Puedes ajustar el peso del DB o la KB para que llegues justo a la última repetición. Puedes modificar el peso entre ejercicios pero sin que haya parón.\nEMOM 8': Realiza las repeticiones de cada ronda dentro del minuto. El tiempo que te sobre utilízalo para descansar. \nMin 1: 30 Farmer carry hexagonal. Si no tienes puedes hacerlo con dos mancuernas o kb\nMin 2: 12-16 Kb Facing burpees. Si vas sobrad@ puedes llegar a 20reps\nSTRETCHING: Acompaña el estiramiento con respiraciones controladas inspirando por la nariz y expirando por la boca.",
+      "mode": "standard",
+      "exercises": [
+        {
+          "blockId": "block99573",
+          "status": "pending",
+          "titleBlock": "ACTIVATION. EMON 9'",
+          "descriptionBlock": "Every Minute On the Minute. Tenemos que realizar cada uno de los ejercicios dentro del minuto. Puedes partir las repeticiones como consideres. No puedes empezar el siguiente ejercicio hasta que no finalice el minuto. El tiempo que te sobre dentro del minuto descansa.\n3 rondas de\nMin 1: 8+8 Plancha con tracción\nMin2: 8+8 step up to press\nMin3: 80-100 saltos comba\n",
+          "type": "block"
+        },
+        {
+          "exerciseId": "superset8251",
+          "rounds": 3,
+          "status": "pending",
+          "supersetExercises": [
+            {
+              "supersetExerciseId": "GhX5LqbLWGKmv5s9a_0",
+              "supersetName_provisional": "Plancha Tracción Ketbell / KB Pull Plank",
+              "supersetNotes": "",
+              "supersetRest": "0",
+              "supersetTarget": "8+8",
+              "supersetUrl_provisional": "https://www.youtube.com/watch?v=fKbu_2L94x8",
+              "supersetImages_provisional": false
+            },
+            {
+              "supersetExerciseId": "7TXWnpeGeZ4X89WvL_0",
+              "supersetName_provisional": "Step up to Press ",
+              "supersetNotes": "",
+              "supersetRest": "0",
+              "supersetTarget": "8+8",
+              "supersetUrl_provisional": "https://www.youtube.com/watch?v=_bIkRkMg6Tc",
+              "supersetImages_provisional": false
+            },
+            {
+              "supersetExerciseId": "36tA4JqbX26qKNhxc_0",
+              "supersetName_provisional": "Comba / Rope jump",
+              "supersetNotes": "",
+              "supersetRest": "0",
+              "supersetTarget": "80-100",
+              "supersetUrl_provisional": "https://www.youtube.com/watch?v=hCuXYrTOMxI",
+              "supersetImages_provisional": false
+            }
+          ],
+          "type": "superset"
+        },
+        {
+          "blockId": "block12167",
+          "status": "pending",
+          "titleBlock": "STRENGHT",
+          "descriptionBlock": "Dos bloques:\n- Primer bloque:\nSentadilla 2x(6-4-2 @80-90% Haz un par de series de aproximación previas a empezar. \n- Segundo Bloque:\nDominada lastrada + Australiano + Twist. Todo seguido sin parón entre ellos lo justo para cambiar de material. \nDominadas: Ajusta las dominadas a un número que puedas mantener las tres rondas. Si no llegas al mínimo hazlo sin lastre o utiliza una goma que te ayude a llegar a 6-8reps. Puedes ajustar el peso del DB o la KB para que llegues justo a la última repetición. Puedes modificar el peso entre ejercicios pero sin que haya parón.\n",
+          "type": "block"
+        },
+        {
+          "exerciseId": "Sfu2RYTzrH778m92N",
+          "name_provisional": "Sentadilla trasera",
+          "notes": "70-75%",
+          "rest": "90",
+          "sets": "3",
+          "status": "pending",
+          "target": "6-4-2",
+          "thumbnailUrl": "https://img.youtube.com/vi/0ttRB9uDz70/mqdefault.jpg",
+          "url_provisional": "https://www.youtube.com/watch?v=0ttRB9uDz70",
+          "type": "simple"
+        },
+        {
+          "exerciseId": "rest11406",
+          "rest": "90",
+          "status": "pending",
+          "type": "rest"
+        },
+        {
+          "exerciseId": "Sfu2RYTzrH778m92N_1",
+          "name_provisional": "Sentadilla trasera",
+          "notes": "",
+          "rest": "90",
+          "sets": "3",
+          "status": "pending",
+          "target": "6-4-2",
+          "thumbnailUrl": "https://img.youtube.com/vi/0ttRB9uDz70/mqdefault.jpg",
+          "url_provisional": "https://www.youtube.com/watch?v=0ttRB9uDz70",
+          "type": "simple"
+        },
+        {
+          "exerciseId": "rest52050",
+          "rest": "120",
+          "status": "pending",
+          "type": "rest"
+        },
+        {
+          "exerciseId": "superset39220",
+          "rounds": 3,
+          "status": "pending",
+          "supersetExercises": [
+            {
+              "supersetExerciseId": "DdABEDRQFYFNEZRKp_0",
+              "supersetName_provisional": "dominada lastrada / Weighted pull up",
+              "supersetNotes": "",
+              "supersetRest": "0",
+              "supersetTarget": "3-6",
+              "supersetUrl_provisional": "https://www.youtube.com/watch?v=dntiFx5q22A",
+              "supersetImages_provisional": false
+            },
+            {
+              "supersetExerciseId": "8rF8SR3cJr7TZ6kzm_0",
+              "supersetName_provisional": "Remo invertido pliométrico",
+              "supersetNotes": "",
+              "supersetRest": "0",
+              "supersetTarget": "12-20",
+              "supersetUrl_provisional": "https://www.youtube.com/watch?v=FX1QV0G5kZI",
+              "supersetImages_provisional": false
+            },
+            {
+              "supersetExerciseId": "qQwcduN6odsPKqkEA_0",
+              "supersetName_provisional": "KB Twist Ruso / KB Russian Twist",
+              "supersetNotes": "",
+              "supersetRest": "90",
+              "supersetTarget": "10+10",
+              "supersetUrl_provisional": "https://www.youtube.com/watch?v=Tau0hsW8iR0",
+              "supersetImages_provisional": false
+            }
+          ],
+          "type": "superset"
+        },
+        {
+          "blockId": "block89735",
+          "status": "pending",
+          "titleBlock": "EMOM 8'",
+          "descriptionBlock": "Realiza las repeticiones de cada ronda dentro del minuto. El tiempo que te sobre utilízalo para descansar. \nMin 1: 30 Farmer carry hexagonal. Si no tienes puedes hacerlo con dos mancuernas o kb\nMin 2: 12-16 Kb Facing burpees. Si vas sobrad@ puedes llegar a 20reps\n",
+          "type": "block"
+        },
+        {
+          "exerciseId": "superset12472",
+          "rounds": "4",
+          "status": "pending",
+          "supersetExercises": [
+            {
+              "supersetExerciseId": "a8AtN7bQ8n2YG7FRe_0",
+              "supersetName_provisional": "Paseo del granjero con Hexagonal / Hex bar farmer carry",
+              "supersetNotes": "",
+              "supersetRest": "0",
+              "supersetTarget": "30m",
+              "supersetUrl_provisional": "https://www.youtube.com/watch?v=bO9q3aq6D_0",
+              "supersetImages_provisional": false
+            },
+            {
+              "supersetExerciseId": "6gZgtFiwvEQd5dKuJ_0",
+              "supersetName_provisional": "KB Facing burpee",
+              "supersetNotes": "",
+              "supersetRest": "0",
+              "supersetTarget": "12-16",
+              "supersetUrl_provisional": "https://www.youtube.com/watch?v=h1ibnUmHlQo",
+              "supersetImages_provisional": false
+            }
+          ],
+          "type": "superset"
+        },
+        {
+          "blockId": "block64300",
+          "status": "pending",
+          "titleBlock": "STRETCHING",
+          "descriptionBlock": "Acompaña el estiramiento con respiraciones controladas inspirando por la nariz y expirando por la boca.",
+          "type": "block"
+        },
+        {
+          "exerciseId": "KELrDkvHQCwc9n2mL",
+          "name_provisional": "Circuito estiramiento / Stretching Circuit 6'",
+          "notes": "",
+          "rest": "0",
+          "sets": "1",
+          "status": "pending",
+          "target": "",
+          "thumbnailUrl": "https://img.youtube.com/vi/72MQmD8Z9Zw/mqdefault.jpg",
+          "images_provisional": false,
+          "url_provisional": "https://www.youtube.com/watch?v=72MQmD8Z9Zw&t=6s",
+          "type": "simple"
+        }
+      ],
+      "ownerName": "Igor Herrero Zapirain",
+      "team": "KWrrJt7s2yJwaRgn2",
+      "removed": false,
+      "public": false,
+      "createdAt": "2025-12-18T09:17:19.691Z",
+      "updatedAt": "2025-12-18T09:17:19.691Z",
+      "owner": "KWrrJt7s2yJwaRgn2"
+    }
+  },
+  {
+    "date": "Sábado 11 Abril",
+    "workout": {
+      "_id": "qA6JEKPZTb68s2649",
+      "name": "Gi-Sport POTENCIA (Rope Jump / Circuito Sentadilla Salto + Box Jump + Drop) 30'",
+      "description": "WARM UP: Realiza los ejercicios de manera suave y controlada, recuerda que estamos entrando en calor.\nPOTENCIA: Trabajo de contraste.\n5x Sentadilla con salto buscando la máxima altura en cada rep. No hace falta hacerlas en modo ascensor. Cada rep empieza desde parado con las piernas estiradas y realizo un movimiento rápido de bajada y de subida despegando los pies del suelo.\n5xBox Jump: Salto al cajón explosivo extendiendo la cadera en cada salto.\n5xDrop Jump. Rebota lo más rápido posible y llega a lo más alto que puedas.\nCORE: Trabajo de fortalecimiento de la cintura abdominal. Recuerda mantener el abdomen contraído en todos los ejercicios.",
+      "mode": "standard",
+      "exercises": [
+        {
+          "blockId": "block73627",
+          "status": "pending",
+          "titleBlock": "WARM UP",
+          "descriptionBlock": "",
+          "type": "block"
+        },
+        {
+          "exerciseId": "ch4L6842yCP3YwqPj",
+          "name_provisional": "movilidad 5'",
+          "notes": "",
+          "rest": "0",
+          "sets": "1",
+          "status": "pending",
+          "target": "",
+          "thumbnailUrl": "https://img.youtube.com/vi/1a7URy4pLfw/mqdefault.jpg",
+          "images_provisional": false,
+          "url_provisional": "https://www.youtube.com/watch?v=1a7URy4pLfw",
+          "type": "simple"
+        },
+        {
+          "exerciseId": "superset34967",
+          "rounds": 3,
+          "status": "pending",
+          "supersetExercises": [
+            {
+              "supersetExerciseId": "6GtcNvjhzSEtSTzi3_2",
+              "supersetName_provisional": "Ciempiés + Fleción / Inchworm to push up",
+              "supersetNotes": "",
+              "supersetRest": "30",
+              "supersetTarget": "8",
+              "supersetUrl_provisional": "https://www.youtube.com/watch?v=gKHG7ZJ4LBw",
+              "supersetImages_provisional": false
+            },
+            {
+              "supersetExerciseId": "7yrSCgajropCq3phe_1",
+              "supersetName_provisional": "Plancha abdominal isométrica de pies con Fitball con apertura de ambas piernas",
+              "supersetNotes": "",
+              "supersetRest": "30",
+              "supersetTarget": "20",
+              "supersetUrl_provisional": "https://youtu.be/r9A97Vdwdg0"
+            },
+            {
+              "supersetExerciseId": "ZoEQAoPf6kfF5u4Gc_0",
+              "supersetName_provisional": "Peso muerto a una pierna",
+              "supersetNotes": "Puedes coger una KB o DB",
+              "supersetRest": "30",
+              "supersetTarget": "8+8",
+              "supersetUrl_provisional": "https://www.youtube.com/watch?v=Tr9bTrxHPEY"
+            }
+          ],
+          "type": "superset"
+        },
+        {
+          "blockId": "block24301",
+          "status": "pending",
+          "titleBlock": "CONDITIONING",
+          "descriptionBlock": "",
+          "type": "block"
+        },
+        {
+          "exerciseId": "36tA4JqbX26qKNhxc",
+          "name_provisional": "Comba / Rope jump",
+          "notes": "Cuenta las rep en cada periodo",
+          "rest": "15",
+          "sets": "8",
+          "status": "pending",
+          "target": "60\"",
+          "thumbnailUrl": "https://img.youtube.com/vi/hCuXYrTOMxI/mqdefault.jpg",
+          "images_provisional": false,
+          "url_provisional": "https://www.youtube.com/watch?v=hCuXYrTOMxI",
+          "type": "simple"
+        },
+        {
+          "exerciseId": "rest77487",
+          "rest": "120",
+          "status": "pending",
+          "type": "rest"
+        },
+        {
+          "exerciseId": "superset71644",
+          "rounds": "5",
+          "status": "pending",
+          "supersetExercises": [
+            {
+              "supersetExerciseId": "3zeQhiNHp67PXiYBX_2",
+              "supersetName_provisional": "Sentadilla con salto",
+              "supersetNotes": "Buscando mayor potencia en cada salto",
+              "supersetRest": "0",
+              "supersetTarget": "5",
+              "supersetUrl_provisional": "https://www.youtube.com/watch?v=2NRHYu_3mwA",
+              "supersetImages_provisional": false
+            },
+            {
+              "supersetExerciseId": "BkvHLmF9dMzwPxiBC_1",
+              "supersetName_provisional": "Salto al cajón / Box Jump",
+              "supersetNotes": "Máxima altura",
+              "supersetRest": "0",
+              "supersetTarget": "5",
+              "supersetUrl_provisional": "https://www.youtube.com/watch?v=NBY9-kTuHEk",
+              "supersetImages_provisional": false
+            },
+            {
+              "supersetExerciseId": "p5rZNySZLWGGeYBJu_0",
+              "supersetName_provisional": "Drop Jump",
+              "supersetNotes": "Máxima altura. Recepciona bien abajo y utiliza los brazos para equilibrarte",
+              "supersetRest": "120",
+              "supersetTarget": "5",
+              "supersetUrl_provisional": "https://www.youtube.com/watch?v=iYG2ziSAOT0",
+              "supersetImages_provisional": false
+            }
+          ],
+          "type": "superset"
+        },
+        {
+          "blockId": "block69324",
+          "status": "pending",
+          "titleBlock": "CORE",
+          "descriptionBlock": "",
+          "type": "block"
+        },
+        {
+          "exerciseId": "qQwcduN6odsPKqkEA",
+          "name_provisional": "KB Twist Ruso / KB Russian Twist",
+          "notes": "",
+          "rest": "0",
+          "sets": "2",
+          "status": "pending",
+          "target": "30",
+          "thumbnailUrl": "https://img.youtube.com/vi/Tau0hsW8iR0/mqdefault.jpg",
+          "images_provisional": false,
+          "url_provisional": "https://www.youtube.com/watch?v=Tau0hsW8iR0",
+          "type": "simple"
+        },
+        {
+          "exerciseId": "Cum5QPvpSZaNTnehc",
+          "name_provisional": "Plancha Kopenhaguen / Kopenhaguen Plank",
+          "notes": "",
+          "rest": "0",
+          "sets": "2",
+          "status": "pending",
+          "target": "30\"+30\"",
+          "thumbnailUrl": "https://img.youtube.com/vi/CjinhqRzcaY/mqdefault.jpg",
+          "images_provisional": false,
+          "url_provisional": "https://www.youtube.com/watch?v=CjinhqRzcaY&t=3s",
+          "type": "simple"
+        }
+      ],
+      "team": "KWrrJt7s2yJwaRgn2",
+      "owner": "KWrrJt7s2yJwaRgn2",
+      "ownerName": "Igor Herrero Zapirain",
+      "removed": false,
+      "public": false,
+      "createdAt": "2025-07-10T14:38:52.129Z",
+      "updatedAt": "2025-07-10T14:38:52.129Z"
+    }
+  },
+  {
+    "date": "Jueves 9 Abril",
+    "workout": {
+      "_id": "3bjR65m5XJyr25mQN",
+      "name": "Gi Power FUERZA (Remo tumbado / KB Front + Step up + Swing // EMOM 8' Escalador + Puente con press ) 45'*",
+      "description": "WARM UP: Realiza los ejercicios de manera suave y controlada, recuerda que estamos entrando en calor.\nACTIVATION EMON 9': Every Minute On the Minute. Tenemos que realizar cada uno de los ejercicios dentro del minuto. Puedes partir las repeticiones como consideres. No puedes empezar el siguiente ejercicio hasta que no finalice el minuto. El tiempo que te sobre dentro del minuto descansa.\n3 rondas de\nMin 1: 8+8 Press hombro unilateral\nMin2: 8+8 Rotaciones landmine\nMin3: 8+8 Peso muerto unilateral\nSTRENGH: Dos bloques:\nPrimer bloque:\nRemo tumbado 5x5 75% Elige o en barra o con mancuernas. Puedes hacer un par de series previas para aproximar. Buscamos explosividad en cada series\nSegunda Bloque:\nFront squat + Ste Up + Swing. Todo seguido sin parón entre ejercicio. Puedes ajustar el peso de DB o la KB para que llegues justo a la última repetición.\nEMOM 8': Realiza las repeticiones de cada ronda dentro del minuto. El tiempo que te sobre utilízalo para descansar. \nMin 1: 30 Escaladores deslizando\nMin 2: 10+10 Puente con press alterno\nSTRETCHING: Acompaña el estiramiento con respiraciones controladas inspirando por la nariz y expirando por la boca.",
+      "mode": "standard",
+      "exercises": [
+        {
+          "blockId": "block99573",
+          "status": "pending",
+          "titleBlock": "ACTIVATION. EMON 9'",
+          "descriptionBlock": "Every Minute On the Minute. Tenemos que realizar cada uno de los ejercicios dentro del minuto. Puedes partir las repeticiones como consideres. No puedes empezar el siguiente ejercicio hasta que no finalice el minuto. El tiempo que te sobre dentro del minuto descansa.\n3 rondas de\nMin 1: 8+8 Press hombro unilateral\nMin2: 8+8 Rotaciones landmine\nMin3: 8+8 Peso muerto unilateral\n",
+          "type": "block"
+        },
+        {
+          "exerciseId": "superset34870",
+          "rounds": 3,
+          "status": "pending",
+          "supersetExercises": [
+            {
+              "supersetExerciseId": "EaNxijPeQvxQc2dQv_0",
+              "supersetName_provisional": "Press de hombro unilateral caballero (Half Kneeling 1 DB Shoulder Press)",
+              "supersetNotes": "",
+              "supersetRest": "0",
+              "supersetTarget": "8+8",
+              "supersetUrl_provisional": "https://www.youtube.com/watch?v=Qc8ynpW225E",
+              "supersetImages_provisional": false
+            },
+            {
+              "supersetExerciseId": "vRhdu6K8xD7P6Hgdo_1",
+              "supersetName_provisional": "Landmine Rotations",
+              "supersetNotes": "",
+              "supersetRest": "0",
+              "supersetTarget": "8+8",
+              "supersetUrl_provisional": "https://www.youtube.com/watch?v=QTv91SzQKd8",
+              "supersetImages_provisional": false
+            },
+            {
+              "supersetExerciseId": "ZoEQAoPf6kfF5u4Gc_0",
+              "supersetName_provisional": "Peso muerto a una pierna",
+              "supersetNotes": "",
+              "supersetRest": "0",
+              "supersetTarget": "",
+              "supersetUrl_provisional": "https://www.youtube.com/watch?v=Tr9bTrxHPEY"
+            }
+          ],
+          "type": "superset"
+        },
+        {
+          "blockId": "block12167",
+          "status": "pending",
+          "titleBlock": "STRENGHT Elige un ejercicio",
+          "descriptionBlock": "Dos bloques:\n- Primer bloque:\nRemo tumbado 5x5 75% Elige o en barra o con mancuernas. Puedes hacer un par de series previas para aproximar. Buscamos explosividad en cada series\n- Segunda Bloque:\nFront squat + Ste Up + Swing. Todo seguido sin parón entre ejercicio. Puedes ajustar el peso de DB o la KB para que llegues justo a la última repetición.\n",
+          "type": "block"
+        },
+        {
+          "exerciseId": "qjreXZP8GvbAkTuRD_0",
+          "name_provisional": "Seal Row mancuernas",
+          "notes": "75% Lo más explosivo posible",
+          "rest": "90",
+          "sets": "5",
+          "status": "pending",
+          "target": "5",
+          "thumbnailUrl": "https://img.youtube.com/vi/qCCK3zv6JJg/mqdefault.jpg",
+          "images_provisional": false,
+          "url_provisional": "https://www.youtube.com/watch?v=qCCK3zv6JJg",
+          "type": "simple"
+        },
+        {
+          "exerciseId": "NkdXBqQENt4wExHPM_0",
+          "name_provisional": "Remo tumbado / Seal Row",
+          "notes": "75% Lo más explosivo posible",
+          "rest": "90",
+          "sets": "5",
+          "status": "pending",
+          "target": "5",
+          "thumbnailUrl": "https://img.youtube.com/vi/UzOhDqu-5Tw/mqdefault.jpg",
+          "images_provisional": false,
+          "url_provisional": "https://www.youtube.com/watch?v=UzOhDqu-5Tw",
+          "type": "simple"
+        },
+        {
+          "exerciseId": "rest52050",
+          "rest": "120",
+          "status": "pending",
+          "type": "rest"
+        },
+        {
+          "exerciseId": "superset79619",
+          "rounds": 3,
+          "status": "pending",
+          "supersetExercises": [
+            {
+              "supersetExerciseId": "hgnf5arymfQnf2QaL_2",
+              "supersetName_provisional": "Sentadilla frontal con dos kb",
+              "supersetNotes": "",
+              "supersetRest": "0",
+              "supersetTarget": "8",
+              "supersetUrl_provisional": "https://www.youtube.com/shorts/e7y8jEUbQiQ",
+              "supersetImages_provisional": false
+            },
+            {
+              "supersetExerciseId": "671fd85777cf5106f1c191c1_0",
+              "supersetName_provisional": "Subida al cajón con 2 kettlebell (Step up 2 KB)",
+              "supersetNotes": "",
+              "supersetRest": "0",
+              "supersetTarget": "8",
+              "supersetUrl_provisional": "https://youtu.be/tPd14iKXv4U"
+            },
+            {
+              "supersetExerciseId": "67daaec8476944d4c8c19292_0",
+              "supersetName_provisional": "Swing con dos kettlebells.",
+              "supersetNotes": "",
+              "supersetRest": "90",
+              "supersetTarget": "8",
+              "supersetUrl_provisional": "https://youtu.be/T38b1F5EfqA"
+            }
+          ],
+          "type": "superset"
+        },
+        {
+          "blockId": "block89735",
+          "status": "pending",
+          "titleBlock": "EMOM 8'",
+          "descriptionBlock": "Realiza las repeticiones de cada ronda dentro del minuto. El tiempo que te sobre utilízalo para descansar. \nMin 1: 30 Escaladores deslizando\nMin 2: 10+10 Puente con press alterno\n",
+          "type": "block"
+        },
+        {
+          "exerciseId": "superset8678",
+          "rounds": "4",
+          "status": "pending",
+          "supersetExercises": [
+            {
+              "supersetExerciseId": "674583e5343ffc5873c191e6_0",
+              "supersetName_provisional": "Escalador con deslizadores",
+              "supersetNotes": "",
+              "supersetRest": "0",
+              "supersetTarget": "30",
+              "supersetUrl_provisional": "https://youtu.be/MCWc6Ti8Q0g"
+            },
+            {
+              "supersetExerciseId": "LLEzByvPBSFvJM32K_0",
+              "supersetName_provisional": "Puente isometrico + press alterno",
+              "supersetNotes": "",
+              "supersetRest": "0",
+              "supersetTarget": "10+10",
+              "supersetUrl_provisional": "https://www.youtube.com/watch?v=st0MB9fZIHE",
+              "supersetImages_provisional": false
+            }
+          ],
+          "type": "superset"
+        },
+        {
+          "blockId": "block64300",
+          "status": "pending",
+          "titleBlock": "STRETCHING",
+          "descriptionBlock": "Acompaña el estiramiento con respiraciones controladas inspirando por la nariz y expirando por la boca.",
+          "type": "block"
+        },
+        {
+          "exerciseId": "W2djQFJ7uaZCRa7rP_0",
+          "name_provisional": "Movilidad articular",
+          "notes": "",
+          "rest": "0",
+          "sets": "1",
+          "status": "pending",
+          "target": "",
+          "thumbnailUrl": "https://img.youtube.com/vi/memt1xgVj2k/mqdefault.jpg",
+          "images_provisional": false,
+          "url_provisional": "https://www.youtube.com/watch?v=memt1xgVj2k&t=47s",
+          "type": "simple"
+        }
+      ],
+      "ownerName": "Igor Herrero Zapirain",
+      "team": "KWrrJt7s2yJwaRgn2",
+      "removed": false,
+      "public": false,
+      "createdAt": "2025-12-18T09:22:29.615Z",
+      "updatedAt": "2025-12-18T09:22:29.615Z",
+      "owner": "KWrrJt7s2yJwaRgn2"
+    }
+  },
+  {
+    "date": "Martes 7 Abril",
+    "workout": {
+      "_id": "xixgAYFDFeBiq7Fez",
+      "name": "Gi power POTENCIA Circuito explosividad cadera + Plyo tracción 30'",
+      "description": "WARM UP: Realiza los ejercicios de manera suave y controlada, recuerda que estamos entrando en calor.\nPOWER: Trabajo pliométrico donde buscamos generar mayos potencia en las piernas.\nRealiza los siguientes 3 ejercicios seguidos con el descanso justo entre ellos. Después de la serie descansa lo suficiente para poder seguir haciendo el gesto explosivo.\n1- Hip Thrust -> Pesado\n2- Kb con goma -> explosivo\n3- Lanzamiento OH Medball\nGRIP Plyo:\n3 4 series de \n3-5 remo invertido pliométrico + 5-8 remo invertido muy rápido",
+      "mode": "standard",
+      "exercises": [
+        {
+          "blockId": "block62876",
+          "status": "pending",
+          "titleBlock": "WARM UP",
+          "descriptionBlock": "",
+          "type": "block"
+        },
+        {
+          "exerciseId": "superset84894",
+          "rounds": 3,
+          "status": "pending",
+          "supersetExercises": [
+            {
+              "supersetExerciseId": "ZoEQAoPf6kfF5u4Gc_2",
+              "supersetName_provisional": "Peso muerto a una pierna",
+              "supersetNotes": "",
+              "supersetRest": "30",
+              "supersetTarget": "8+8",
+              "supersetUrl_provisional": "https://www.youtube.com/watch?v=Tr9bTrxHPEY"
+            },
+            {
+              "supersetExerciseId": "r32FKyy5TTkhuQQoa_1",
+              "supersetName_provisional": "Agarre con disco alternando brazo",
+              "supersetNotes": "",
+              "supersetRest": "30",
+              "supersetTarget": "20",
+              "supersetUrl_provisional": "https://www.youtube.com/watch?v=bbSH3wKBeK8",
+              "supersetImages_provisional": false
+            },
+            {
+              "supersetExerciseId": "EaQasYtPCkp7JYZdN_0",
+              "supersetName_provisional": "Hollow rock",
+              "supersetNotes": "",
+              "supersetRest": "30",
+              "supersetTarget": "30\"",
+              "supersetUrl_provisional": "https://www.youtube.com/watch?v=GqgmUR5BEWg",
+              "supersetImages_provisional": false
+            }
+          ],
+          "type": "superset"
+        },
+        {
+          "blockId": "block24301",
+          "status": "pending",
+          "titleBlock": "POTENCIA",
+          "descriptionBlock": "",
+          "type": "block"
+        },
+        {
+          "exerciseId": "superset13393",
+          "rounds": "4",
+          "status": "pending",
+          "supersetExercises": [
+            {
+              "supersetExerciseId": "P6oNYSpPcXPQfm8ww_2",
+              "supersetName_provisional": "Hip thrust en banco (Bench Hip Thrust)",
+              "supersetNotes": "85%",
+              "supersetRest": "0",
+              "supersetTarget": "3-5",
+              "supersetUrl_provisional": "https://www.youtube.com/watch?v=gGsGaDG5htM",
+              "supersetImages_provisional": false
+            },
+            {
+              "supersetExerciseId": "wA6tWWft35Ku95eiq_1",
+              "supersetName_provisional": "KB Swing con goma",
+              "supersetNotes": "Explosivas",
+              "supersetRest": "0",
+              "supersetTarget": "8",
+              "supersetUrl_provisional": "https://www.youtube.com/watch?v=lL7TGSQzUx4",
+              "supersetImages_provisional": false
+            },
+            {
+              "supersetExerciseId": "YJ5NdhaXEbdMDZCBX_0",
+              "supersetName_provisional": "Lanzamiento medball OH hacia atrás desde fitball",
+              "supersetNotes": "Max distancia sin parón",
+              "supersetRest": "120",
+              "supersetTarget": "5",
+              "supersetUrl_provisional": "https://youtube.com/shorts/MDETC9P3eho?feature=share",
+              "supersetImages_provisional": false
+            }
+          ],
+          "type": "superset"
+        },
+        {
+          "exerciseId": "rest48526",
+          "rest": "120",
+          "status": "pending",
+          "type": "rest"
+        },
+        {
+          "blockId": "block69324",
+          "status": "pending",
+          "titleBlock": "GRIP",
+          "descriptionBlock": "",
+          "type": "block"
+        },
+        {
+          "exerciseId": "superset31704",
+          "rounds": 3,
+          "status": "pending",
+          "supersetExercises": [
+            {
+              "supersetExerciseId": "8rF8SR3cJr7TZ6kzm_0",
+              "supersetName_provisional": "Remo invertido pliométrico",
+              "supersetNotes": "",
+              "supersetRest": "0",
+              "supersetTarget": "5",
+              "supersetUrl_provisional": "https://www.youtube.com/watch?v=FX1QV0G5kZI",
+              "supersetImages_provisional": false
+            },
+            {
+              "supersetExerciseId": "rMrHBkAmcLBp4woPs_0",
+              "supersetName_provisional": "Remo Invertido / Inverted Row",
+              "supersetNotes": "Muy rápidas",
+              "supersetRest": "90",
+              "supersetTarget": "5-8",
+              "supersetUrl_provisional": "https://www.youtube.com/watch?v=hcP3K3z-arU",
+              "supersetImages_provisional": false
+            }
+          ],
+          "type": "superset"
+        }
+      ],
+      "team": "KWrrJt7s2yJwaRgn2",
+      "owner": "KWrrJt7s2yJwaRgn2",
+      "ownerName": "Igor Herrero Zapirain",
+      "removed": false,
+      "public": false,
+      "createdAt": "2026-03-16T18:07:35.930Z",
+      "updatedAt": "2026-03-16T18:07:35.930Z"
+    }
+  },
+  {
+    "date": "Domingo 5 Abril",
+    "workout": {
+      "_id": "325e7LwJiTskF2QXG",
+      "name": "Gi Power FUERZA (Press de hombro / Front + Zecher + Sentadilla salto  // EMOM 9' Renegade + curl + grip) 45'*",
+      "description": "WARM UP: Realiza los ejercicios de manera suave y controlada, recuerda que estamos entrando en calor.\nACTIVATION EMON 8': Every Minute On the Minute. Tenemos que realizar cada uno de los ejercicios dentro del minuto. Puedes partir las repeticiones como consideres. No puedes empezar el siguiente ejercicio hasta que no finalice el minuto. El tiempo que te sobre dentro del minuto descansa.\n3 rondas de\nMin 1: 7+7 Step up lateral\nMin2: 7+7 Puente unilateral con cambio de pie\nMin3: 10+10 Plancha lateral\nMin4: 30\" Jumping jacks\nSTRENGH: Dos bloques:\nPrimer bloque:\nPress de hombro 5x5. Puedo hacerlo con mancuernas si estoy más cómodo.\nSegunda Bloque:\nSentadilla frontal + Zecher + Sentadilla salto. Todo seguido sin parón entre ejercicio. Puedes ajustar el peso de la barra o sustituirlo por DB o la KB. Los saltos a la máxima altura posible.\nEMOM 9': Realiza las repeticiones de cada ronda dentro del minuto. El tiempo que te sobre utilízalo para descansar. \nMin 1: 10-14rep Renegade desde bear\nMin 2: 10-14rep Curl de biceps\nMin 3: 10-14 Grip con barra\nSTRETCHING: Acompaña el estiramiento con respiraciones controladas inspirando por la nariz y expirando por la boca.",
+      "mode": "standard",
+      "exercises": [
+        {
+          "blockId": "block99573",
+          "status": "pending",
+          "titleBlock": "ACTIVATION. EMON 8'",
+          "descriptionBlock": "Every Minute On the Minute. Tenemos que realizar cada uno de los ejercicios dentro del minuto. Puedes partir las repeticiones como consideres. No puedes empezar el siguiente ejercicio hasta que no finalice el minuto. El tiempo que te sobre dentro del minuto descansa.\n3 rondas de\nMin 1: 7+7 Step up lateral\nMin2: 7+7 Puente unilateral con cambio de pie\nMin3: 10+10 Plancha lateral\nMin4: 30\" Jumping jacks\n",
+          "type": "block"
+        },
+        {
+          "exerciseId": "superset76992",
+          "rounds": 3,
+          "status": "pending",
+          "supersetExercises": [
+            {
+              "supersetExerciseId": "S4CPvTKWiB4EwjYv2_0",
+              "supersetName_provisional": "Lateral Step Up",
+              "supersetNotes": "",
+              "supersetRest": "0",
+              "supersetTarget": "7+7",
+              "supersetUrl_provisional": "https://www.youtube.com/watch?v=GThrNeGcjGc",
+              "supersetImages_provisional": false
+            },
+            {
+              "supersetExerciseId": "pWcdCWHaxHWCNzTKo_0",
+              "supersetName_provisional": "Puente unilateral con empuje + cambio de pierna rápida",
+              "supersetNotes": "",
+              "supersetRest": "0",
+              "supersetTarget": "7+7",
+              "supersetUrl_provisional": "https://www.youtube.com/shorts/eRoYf5dLgg0",
+              "supersetImages_provisional": false
+            },
+            {
+              "supersetExerciseId": "7vtfyXFturyHkGtCb_0",
+              "supersetName_provisional": "Plancha lateral con elevación DB / Side Plank DB raise",
+              "supersetNotes": "",
+              "supersetRest": "0",
+              "supersetTarget": "10+10",
+              "supersetUrl_provisional": "https://www.youtube.com/watch?v=eQflPl9LjWk",
+              "supersetImages_provisional": false
+            },
+            {
+              "supersetExerciseId": "zxeJK2upXnxkjTf7C_0",
+              "supersetName_provisional": "Jumping jacks",
+              "supersetNotes": "",
+              "supersetRest": "0",
+              "supersetTarget": "30\"",
+              "supersetUrl_provisional": "https://www.youtube.com/watch?v=vEPkIRGeQM4",
+              "supersetImages_provisional": false
+            }
+          ],
+          "type": "superset"
+        },
+        {
+          "blockId": "block12167",
+          "status": "pending",
+          "titleBlock": "STRENGHT",
+          "descriptionBlock": "Dos bloques:\n- Primer bloque:\nPress de hombro 5x5. Puedo hacerlo con mancuernas si estoy más cómodo.\n- Segunda Bloque:\nSentadilla frontal + Zecher + Sentadilla salto. Todo seguido sin parón entre ejercicio. Puedes ajustar el peso de la barra o sustituirlo por DB o la KB. Los saltos a la máxima altura posible.\n",
+          "type": "block"
+        },
+        {
+          "exerciseId": "ggJAx5WFJhn5Dy4J9_0",
+          "name_provisional": "Press Hombro Barra / Shoulder Press Bar",
+          "notes": "Haz dos series de aproximación",
+          "rest": "90",
+          "sets": "5",
+          "status": "pending",
+          "target": "5",
+          "thumbnailUrl": "https://img.youtube.com/vi/5yWaNOvgFCM/mqdefault.jpg",
+          "images_provisional": false,
+          "url_provisional": "https://www.youtube.com/watch?v=5yWaNOvgFCM",
+          "type": "simple"
+        },
+        {
+          "exerciseId": "rest52050",
+          "rest": "120",
+          "status": "pending",
+          "type": "rest"
+        },
+        {
+          "exerciseId": "superset5378",
+          "rounds": 3,
+          "status": "pending",
+          "supersetExercises": [
+            {
+              "supersetExerciseId": "FG5qReML8KyxKBDWv_0",
+              "supersetName_provisional": "Sentadilla frontal (Front Squat)",
+              "supersetNotes": "",
+              "supersetRest": "0",
+              "supersetTarget": "6",
+              "supersetUrl_provisional": "https://www.youtube.com/watch?v=rAANm8huxWU",
+              "supersetImages_provisional": false
+            },
+            {
+              "supersetExerciseId": "94mqDqByqtSWDRCuz_0",
+              "supersetName_provisional": "Zecher Squat",
+              "supersetNotes": "",
+              "supersetRest": "0",
+              "supersetTarget": "6",
+              "supersetUrl_provisional": "https://www.youtube.com/watch?v=nwx6Ip7hd3I",
+              "supersetImages_provisional": false
+            },
+            {
+              "supersetExerciseId": "3PeCsjvfzYk5GioKk_0",
+              "supersetName_provisional": "Salto vertical",
+              "supersetNotes": "",
+              "supersetRest": "60",
+              "supersetTarget": "6",
+              "supersetUrl_provisional": "https://www.youtube.com/watch?v=j260zYfRz8Q",
+              "supersetImages_provisional": false
+            }
+          ],
+          "type": "superset"
+        },
+        {
+          "blockId": "block89735",
+          "status": "pending",
+          "titleBlock": "EMOM 9'",
+          "descriptionBlock": "Realiza las repeticiones de cada ronda dentro del minuto. El tiempo que te sobre utilízalo para descansar. \nMin 1: 10-14rep Renegade desde bear\nMin 2: 10-14rep Curl de biceps\nMin 3: 10-14 Grip con barra\n",
+          "type": "block"
+        },
+        {
+          "exerciseId": "superset52223",
+          "rounds": "3",
+          "status": "pending",
+          "supersetExercises": [
+            {
+              "supersetExerciseId": "WACHYeNuAvwCg6DA6_0",
+              "supersetName_provisional": "DB Bear push Up to renegade row",
+              "supersetNotes": "",
+              "supersetRest": "0",
+              "supersetTarget": "10-14",
+              "supersetUrl_provisional": "https://youtube.com/shorts/EYrGYjIwcGU?feature=share",
+              "supersetImages_provisional": false
+            },
+            {
+              "supersetExerciseId": "aHcjaFSjpj7miwx4W_0",
+              "supersetName_provisional": "Curl de bíceps con mancuernas (Curl Biceps 2 DB)",
+              "supersetNotes": "",
+              "supersetRest": "0",
+              "supersetTarget": "10-14",
+              "supersetUrl_provisional": "https://www.youtube.com/watch?v=N5lfewEk6MM",
+              "supersetImages_provisional": false
+            },
+            {
+              "supersetExerciseId": "5MdGgsA66ZeYgYidy_0",
+              "supersetName_provisional": "Flexión de muñeca con barra",
+              "supersetNotes": "",
+              "supersetRest": "0",
+              "supersetTarget": "10-14",
+              "supersetUrl_provisional": "https://www.youtube.com/shorts/FHCO6TyLsSM",
+              "supersetImages_provisional": false
+            }
+          ],
+          "type": "superset"
+        },
+        {
+          "blockId": "block64300",
+          "status": "pending",
+          "titleBlock": "STRETCHING",
+          "descriptionBlock": "Acompaña el estiramiento con respiraciones controladas inspirando por la nariz y expirando por la boca.",
+          "type": "block"
+        },
+        {
+          "exerciseId": "ch4L6842yCP3YwqPj_0",
+          "name_provisional": "movilidad 5'",
+          "notes": "",
+          "rest": "0",
+          "sets": "1",
+          "status": "pending",
+          "target": "",
+          "thumbnailUrl": "https://img.youtube.com/vi/1a7URy4pLfw/mqdefault.jpg",
+          "images_provisional": false,
+          "url_provisional": "https://www.youtube.com/watch?v=1a7URy4pLfw",
+          "type": "simple"
+        }
+      ],
+      "ownerName": "Igor Herrero Zapirain",
+      "team": "KWrrJt7s2yJwaRgn2",
+      "removed": false,
+      "public": false,
+      "createdAt": "2025-12-18T09:19:02.581Z",
+      "updatedAt": "2025-12-18T09:19:02.581Z",
+      "owner": "KWrrJt7s2yJwaRgn2"
+    }
+  },
+  {
+    "date": "Martes 31 Marzo",
+    "workout": {
+      "_id": "onj2y2vMdhhCXd6Pz",
+      "name": "Gi Power FUERZA (Sentadilla 6-4-2 / Dominada lastrada + Australiano + Twist  // EMOM Farmer + Burpee over KB) 45'*",
+      "description": "ACTIVATION EMON 9': Every Minute On the Minute. Tenemos que realizar cada uno de los ejercicios dentro del minuto. Puedes partir las repeticiones como consideres. No puedes empezar el siguiente ejercicio hasta que no finalice el minuto. El tiempo que te sobre dentro del minuto descansa.\n3 rondas de\nMin 1: 8+8 Plancha con tracción\nMin2: 8+8 step up to press\nMin3: 80-100 saltos comba\nSTRENGH: Dos bloques:\nPrimer bloque:\nSentadilla 2x(6-4-2 @80-90% Haz un par de series de aproximación previas a empezar. \nSegundo Bloque:\nDominada lastrada + Australiano + Twist. Todo seguido sin parón entre ellos lo justo para cambiar de material. \nDominadas: Ajusta las dominadas a un número que puedas mantener las tres rondas. Si no llegas al mínimo hazlo sin lastre o utiliza una goma que te ayude a llegar a 6-8reps. Puedes ajustar el peso del DB o la KB para que llegues justo a la última repetición. Puedes modificar el peso entre ejercicios pero sin que haya parón.\nEMOM 8': Realiza las repeticiones de cada ronda dentro del minuto. El tiempo que te sobre utilízalo para descansar. \nMin 1: 30 Farmer carry hexagonal. Si no tienes puedes hacerlo con dos mancuernas o kb\nMin 2: 12-16 Kb Facing burpees. Si vas sobrad@ puedes llegar a 20reps\nSTRETCHING: Acompaña el estiramiento con respiraciones controladas inspirando por la nariz y expirando por la boca.",
+      "mode": "standard",
+      "exercises": [
+        {
+          "blockId": "block99573",
+          "status": "pending",
+          "titleBlock": "ACTIVATION. EMON 9'",
+          "descriptionBlock": "Every Minute On the Minute. Tenemos que realizar cada uno de los ejercicios dentro del minuto. Puedes partir las repeticiones como consideres. No puedes empezar el siguiente ejercicio hasta que no finalice el minuto. El tiempo que te sobre dentro del minuto descansa.\n3 rondas de\nMin 1: 8+8 Plancha con tracción\nMin2: 8+8 step up to press\nMin3: 80-100 saltos comba\n",
+          "type": "block"
+        },
+        {
+          "exerciseId": "superset8251",
+          "rounds": 3,
+          "status": "pending",
+          "supersetExercises": [
+            {
+              "supersetExerciseId": "GhX5LqbLWGKmv5s9a_0",
+              "supersetName_provisional": "Plancha Tracción Ketbell / KB Pull Plank",
+              "supersetNotes": "",
+              "supersetRest": "0",
+              "supersetTarget": "8+8",
+              "supersetUrl_provisional": "https://www.youtube.com/watch?v=fKbu_2L94x8",
+              "supersetImages_provisional": false
+            },
+            {
+              "supersetExerciseId": "7TXWnpeGeZ4X89WvL_0",
+              "supersetName_provisional": "Step up to Press ",
+              "supersetNotes": "",
+              "supersetRest": "0",
+              "supersetTarget": "8+8",
+              "supersetUrl_provisional": "https://www.youtube.com/watch?v=_bIkRkMg6Tc",
+              "supersetImages_provisional": false
+            },
+            {
+              "supersetExerciseId": "36tA4JqbX26qKNhxc_0",
+              "supersetName_provisional": "Comba / Rope jump",
+              "supersetNotes": "",
+              "supersetRest": "0",
+              "supersetTarget": "80-100",
+              "supersetUrl_provisional": "https://www.youtube.com/watch?v=hCuXYrTOMxI",
+              "supersetImages_provisional": false
+            }
+          ],
+          "type": "superset"
+        },
+        {
+          "blockId": "block12167",
+          "status": "pending",
+          "titleBlock": "STRENGHT",
+          "descriptionBlock": "Dos bloques:\n- Primer bloque:\nSentadilla 2x(6-4-2 @80-90% Haz un par de series de aproximación previas a empezar. \n- Segundo Bloque:\nDominada lastrada + Australiano + Twist. Todo seguido sin parón entre ellos lo justo para cambiar de material. \nDominadas: Ajusta las dominadas a un número que puedas mantener las tres rondas. Si no llegas al mínimo hazlo sin lastre o utiliza una goma que te ayude a llegar a 6-8reps. Puedes ajustar el peso del DB o la KB para que llegues justo a la última repetición. Puedes modificar el peso entre ejercicios pero sin que haya parón.\n",
+          "type": "block"
+        },
+        {
+          "exerciseId": "Sfu2RYTzrH778m92N",
+          "name_provisional": "Sentadilla trasera",
+          "notes": "70-75%",
+          "rest": "90",
+          "sets": "3",
+          "status": "pending",
+          "target": "6-4-2",
+          "thumbnailUrl": "https://img.youtube.com/vi/0ttRB9uDz70/mqdefault.jpg",
+          "url_provisional": "https://www.youtube.com/watch?v=0ttRB9uDz70",
+          "type": "simple"
+        },
+        {
+          "exerciseId": "rest11406",
+          "rest": "90",
+          "status": "pending",
+          "type": "rest"
+        },
+        {
+          "exerciseId": "Sfu2RYTzrH778m92N_1",
+          "name_provisional": "Sentadilla trasera",
+          "notes": "",
+          "rest": "90",
+          "sets": "3",
+          "status": "pending",
+          "target": "6-4-2",
+          "thumbnailUrl": "https://img.youtube.com/vi/0ttRB9uDz70/mqdefault.jpg",
+          "url_provisional": "https://www.youtube.com/watch?v=0ttRB9uDz70",
+          "type": "simple"
+        },
+        {
+          "exerciseId": "rest52050",
+          "rest": "120",
+          "status": "pending",
+          "type": "rest"
+        },
+        {
+          "exerciseId": "superset39220",
+          "rounds": 3,
+          "status": "pending",
+          "supersetExercises": [
+            {
+              "supersetExerciseId": "DdABEDRQFYFNEZRKp_0",
+              "supersetName_provisional": "dominada lastrada / Weighted pull up",
+              "supersetNotes": "",
+              "supersetRest": "0",
+              "supersetTarget": "3-6",
+              "supersetUrl_provisional": "https://www.youtube.com/watch?v=dntiFx5q22A",
+              "supersetImages_provisional": false
+            },
+            {
+              "supersetExerciseId": "8rF8SR3cJr7TZ6kzm_0",
+              "supersetName_provisional": "Remo invertido pliométrico",
+              "supersetNotes": "",
+              "supersetRest": "0",
+              "supersetTarget": "12-20",
+              "supersetUrl_provisional": "https://www.youtube.com/watch?v=FX1QV0G5kZI",
+              "supersetImages_provisional": false
+            },
+            {
+              "supersetExerciseId": "qQwcduN6odsPKqkEA_0",
+              "supersetName_provisional": "KB Twist Ruso / KB Russian Twist",
+              "supersetNotes": "",
+              "supersetRest": "90",
+              "supersetTarget": "10+10",
+              "supersetUrl_provisional": "https://www.youtube.com/watch?v=Tau0hsW8iR0",
+              "supersetImages_provisional": false
+            }
+          ],
+          "type": "superset"
+        },
+        {
+          "blockId": "block89735",
+          "status": "pending",
+          "titleBlock": "EMOM 8'",
+          "descriptionBlock": "Realiza las repeticiones de cada ronda dentro del minuto. El tiempo que te sobre utilízalo para descansar. \nMin 1: 30 Farmer carry hexagonal. Si no tienes puedes hacerlo con dos mancuernas o kb\nMin 2: 12-16 Kb Facing burpees. Si vas sobrad@ puedes llegar a 20reps\n",
+          "type": "block"
+        },
+        {
+          "exerciseId": "superset12472",
+          "rounds": "4",
+          "status": "pending",
+          "supersetExercises": [
+            {
+              "supersetExerciseId": "a8AtN7bQ8n2YG7FRe_0",
+              "supersetName_provisional": "Paseo del granjero con Hexagonal / Hex bar farmer carry",
+              "supersetNotes": "",
+              "supersetRest": "0",
+              "supersetTarget": "30m",
+              "supersetUrl_provisional": "https://www.youtube.com/watch?v=bO9q3aq6D_0",
+              "supersetImages_provisional": false
+            },
+            {
+              "supersetExerciseId": "6gZgtFiwvEQd5dKuJ_0",
+              "supersetName_provisional": "KB Facing burpee",
+              "supersetNotes": "",
+              "supersetRest": "0",
+              "supersetTarget": "12-16",
+              "supersetUrl_provisional": "https://www.youtube.com/watch?v=h1ibnUmHlQo",
+              "supersetImages_provisional": false
+            }
+          ],
+          "type": "superset"
+        },
+        {
+          "blockId": "block64300",
+          "status": "pending",
+          "titleBlock": "STRETCHING",
+          "descriptionBlock": "Acompaña el estiramiento con respiraciones controladas inspirando por la nariz y expirando por la boca.",
+          "type": "block"
+        },
+        {
+          "exerciseId": "KELrDkvHQCwc9n2mL",
+          "name_provisional": "Circuito estiramiento / Stretching Circuit 6'",
+          "notes": "",
+          "rest": "0",
+          "sets": "1",
+          "status": "pending",
+          "target": "",
+          "thumbnailUrl": "https://img.youtube.com/vi/72MQmD8Z9Zw/mqdefault.jpg",
+          "images_provisional": false,
+          "url_provisional": "https://www.youtube.com/watch?v=72MQmD8Z9Zw&t=6s",
+          "type": "simple"
+        }
+      ],
+      "ownerName": "Igor Herrero Zapirain",
+      "team": "KWrrJt7s2yJwaRgn2",
+      "removed": false,
+      "public": false,
+      "createdAt": "2025-12-18T09:17:19.691Z",
+      "updatedAt": "2025-12-18T09:17:19.691Z",
+      "owner": "KWrrJt7s2yJwaRgn2"
+    }
+  },
+  {
+    "date": "Sábado 28 Marzo",
+    "workout": {
+      "_id": "AL9G75JbfhvryHebG",
+      "name": "Gi Power CIRCUIT (Plyo empluje / Circuito skierg+T2B+HSPU+Hold // Core)*",
+      "description": "WARM UP: Movilidad de hombro\nPOWER: Trabajo de potencia de empuje. Para ello usaremos las flexiones pliométricas sobre disco + press pliométrico con balón medicinal. Descansa bien entre series para asegurarnos ese pico!\nCONDITIONING: 3-4 series de Tabata 4 estaciones x 2. Realizamos dos vueltas completas (8 ejercicios en total) Buscamos que cada serie sea al máximo. Descansa 2-3 entre series para asegurar ese pico de potencia\nCORE: Trabajo de fortalecimiento de la cintura abdominal y lumbar.",
+      "mode": "standard",
+      "exercises": [
+        {
+          "blockId": "block96711",
+          "status": "pending",
+          "titleBlock": "WARM UP",
+          "descriptionBlock": "",
+          "type": "block"
+        },
+        {
+          "exerciseId": "6537dfa06ac676152b1d52d8_0",
+          "name_provisional": "Movilidad completa de hombro",
+          "notes": "",
+          "rest": "0",
+          "sets": "1",
+          "status": "pending",
+          "target": "",
+          "thumbnailUrl": "https://img.youtube.com/vi/4--tjADrQ5E/mqdefault.jpg",
+          "images_provisional": false,
+          "url_provisional": "https://youtu.be/4--tjADrQ5E",
+          "type": "simple"
+        },
+        {
+          "blockId": "block37697",
+          "status": "pending",
+          "titleBlock": "POWER",
+          "descriptionBlock": "Trabajo de potencia de empuje. Para ello usaremos las flexiones pliométricas sobre disco + press pliométrico con balón medicinal. Descansa bien entre series para asegurarnos ese pico!\n",
+          "type": "block"
+        },
+        {
+          "exerciseId": "superset69803",
+          "rounds": 3,
+          "status": "pending",
+          "supersetExercises": [
+            {
+              "supersetExerciseId": "JWFeCu2uRruqmHunv_1",
+              "supersetName_provisional": "Flexiones pliométricas sobre discos",
+              "supersetNotes": "Máxima altura",
+              "supersetRest": "45",
+              "supersetTarget": "6-8",
+              "supersetUrl_provisional": "https://www.youtube.com/watch?v=jWeit668D8Q",
+              "supersetImages_provisional": false
+            },
+            {
+              "supersetExerciseId": "ysQiTAWFSDHs46pRc_0",
+              "supersetName_provisional": "Press pliométrico balón medicinal / Plyometric medball chest press",
+              "supersetNotes": "Máxima altura. Puedes hacerlo solo lanzando y cogiendo tu mismo el balón",
+              "supersetRest": "90",
+              "supersetTarget": "6-8",
+              "supersetUrl_provisional": "https://www.youtube.com/watch?v=6vTBLhBrUhk",
+              "supersetImages_provisional": false
+            }
+          ],
+          "type": "superset"
+        },
+        {
+          "blockId": "block7092",
+          "status": "pending",
+          "titleBlock": "CONDITIONING",
+          "descriptionBlock": "3-4 series de Tabata 4 estaciones x 2. Realizamos dos vueltas completas (8 ejercicios en total) Buscamos que cada serie sea al máximo. Descansa 2-3 entre series para asegurar ese pico de potencia\n",
+          "type": "block"
+        },
+        {
+          "exerciseId": "superset3065",
+          "rounds": "4",
+          "status": "pending",
+          "supersetExercises": [
+            {
+              "supersetExerciseId": "3q286r7dLBGEwPDjo_0",
+              "supersetName_provisional": "Skierg",
+              "supersetNotes": "Máximas cal posibles",
+              "supersetRest": "10",
+              "supersetTarget": "30\"",
+              "supersetUrl_provisional": "https://www.youtube.com/shorts/9lrm-MtJNZo",
+              "supersetImages_provisional": false
+            },
+            {
+              "supersetExerciseId": "PFJkfCv4ECaKfNpDa_0",
+              "supersetName_provisional": "Toes to bar",
+              "supersetNotes": "máximas repeticiones posibles",
+              "supersetRest": "10",
+              "supersetTarget": "30\"",
+              "supersetUrl_provisional": "https://www.youtube.com/watch?v=6dHvTlsMvNY",
+              "supersetImages_provisional": false
+            },
+            {
+              "supersetExerciseId": "JurPTtBjdpCQdhike_0",
+              "supersetName_provisional": "Flexiones haciendo el pino // Hand stand push up",
+              "supersetNotes": "máximas repeticiones posibles",
+              "supersetRest": "10",
+              "supersetTarget": "30\"",
+              "supersetUrl_provisional": "https://www.youtube.com/watch?v=9wIkPCS4Mbo",
+              "supersetImages_provisional": false
+            },
+            {
+              "supersetExerciseId": "imKrjACy2bdL4eCrL_0",
+              "supersetName_provisional": "Farmer hold",
+              "supersetNotes": "Máximo peso posible",
+              "supersetRest": "10",
+              "supersetTarget": "30\"",
+              "supersetUrl_provisional": "https://www.youtube.com/watch?v=Xt7ocQZ0VrA",
+              "supersetImages_provisional": false
+            }
+          ],
+          "type": "superset"
+        },
+        {
+          "blockId": "block25016",
+          "status": "pending",
+          "titleBlock": "CORE",
+          "descriptionBlock": "Trabajo de fortalecimiento de la cintura abdominal y lumbar.",
+          "type": "block"
+        },
+        {
+          "exerciseId": "superset8535",
+          "rounds": "4",
+          "status": "pending",
+          "supersetExercises": [
+            {
+              "supersetExerciseId": "RTbvA8Qq9Cxqd5xro_1",
+              "supersetName_provisional": "ABD Limpiaraparabrisas /winshield wiper ABS",
+              "supersetNotes": "",
+              "supersetRest": "45",
+              "supersetTarget": "20",
+              "supersetUrl_provisional": "https://www.youtube.com/watch?v=3npJSSGOpXg",
+              "supersetImages_provisional": false
+            }
+          ],
+          "type": "superset"
+        }
+      ],
+      "ownerName": "Igor Herrero Zapirain",
+      "team": "KWrrJt7s2yJwaRgn2",
+      "removed": false,
+      "public": false,
+      "createdAt": "2025-12-31T11:00:55.750Z",
+      "updatedAt": "2025-12-31T11:00:55.750Z",
+      "owner": "KWrrJt7s2yJwaRgn2"
+    }
+  },
+  {
+    "date": "Jueves 26 Marzo",
+    "workout": {
+      "_id": "fxYHoykXDs8kagKxY",
+      "name": "Rutina de Glúteos desde el Suelo",
+      "description": "Realiza esta rutina prestando especial atención a la conexión mente-músculo en los glúteos. Asegúrate de mantener una buena técnica en cada ejercicio. Ajusta el peso de la kettlebell y la resistencia de las minibands para que las últimas repeticiones sean desafiantes pero sin comprometer la forma. Mantén el core activo durante toda la rutina.",
+      "generatedByIA": true,
+      "mode": "standard",
+      "exercises": [
+        {
+          "blockId": "blockCalentamiento",
+          "status": "pending",
+          "titleBlock": "Calentamiento",
+          "descriptionBlock": "",
+          "type": "block"
+        },
+        {
+          "exerciseId": "674583e3343ffc5873c191bb",
+          "name_provisional": "Abducción de cadera en posición de cuadrupedia",
+          "notes": "",
+          "rest": "30",
+          "sets": 2,
+          "status": "pending",
+          "target": "15-20 por lado",
+          "thumbnailUrl": "https://img.youtube.com/vi/x95usDy_qOU/sddefault.jpg",
+          "images_provisional": false,
+          "url_provisional": "https://youtu.be/x95usDy_qOU",
+          "type": "simple"
+        },
+        {
+          "exerciseId": "62344565d67c1e31c0a8ebb4",
+          "name_provisional": "Extensión de cadera y rodilla en cuadrupedia. (Bird-Dog)",
+          "notes": "",
+          "rest": "30",
+          "sets": 2,
+          "status": "pending",
+          "target": "10-12 por lado",
+          "thumbnailUrl": "https://img.youtube.com/vi/_NYhukB9B4g/mqdefault.jpg",
+          "images_provisional": false,
+          "url_provisional": "https://youtu.be/_NYhukB9B4g",
+          "type": "simple"
+        },
+        {
+          "blockId": "block3976",
+          "status": "pending",
+          "titleBlock": "Fuerza Principal de Glúteos",
+          "descriptionBlock": "",
+          "type": "block"
+        },
+        {
+          "exerciseId": "z4dvnWtRdxNCkZnvq",
+          "name_provisional": "Puente de Glúteo con KB",
+          "notes": "",
+          "rest": "60",
+          "sets": 3,
+          "status": "pending",
+          "target": "12-15",
+          "thumbnailUrl": "https://img.youtube.com/vi/Ve46CsOLrgI/mqdefault.jpg",
+          "images_provisional": false,
+          "url_provisional": "https://youtu.be/Ve46CsOLrgI",
+          "type": "simple"
+        },
+        {
+          "exerciseId": "superset82552",
+          "rounds": 3,
+          "status": "pending",
+          "supersetExercises": [
+            {
+              "supersetExerciseId": "680658840007f8f579c191f5",
+              "supersetName_provisional": "Patada de glúteo con miniband en cuadrupedia",
+              "supersetNotes": "",
+              "supersetRest": "90",
+              "supersetTarget": "15-20 por lado",
+              "supersetUrl_provisional": "https://youtu.be/4EHTP8woJck"
+            },
+            {
+              "supersetExerciseId": "674583e3343ffc5873c191bf",
+              "supersetName_provisional": "Abducción de cadera tumbado lateral con goma en las rodillas",
+              "supersetNotes": "",
+              "supersetRest": "90",
+              "supersetTarget": "15-20 por lado",
+              "supersetUrl_provisional": "https://youtu.be/Z8ogCTygSd4"
+            }
+          ],
+          "type": "superset"
+        },
+        {
+          "exerciseId": "superset44889",
+          "rounds": 3,
+          "status": "pending",
+          "supersetExercises": [
+            {
+              "supersetExerciseId": "9GXLSXRDZJpYpPgz7",
+              "supersetName_provisional": "Puente de Glúteo unilateral con KB",
+              "supersetNotes": "",
+              "supersetRest": "90",
+              "supersetTarget": "10-12 por lado",
+              "supersetUrl_provisional": "https://youtu.be/7xspJqjJ_7A"
+            },
+            {
+              "supersetExerciseId": "674583e3343ffc5873c191c1",
+              "supersetName_provisional": "Abducción de caderas tumbado en supino con goma en los tobillos (bilateral)",
+              "supersetNotes": "",
+              "supersetRest": "90",
+              "supersetTarget": "15-20",
+              "supersetUrl_provisional": "https://youtu.be/CKdTu-WV8OU"
+            }
+          ],
+          "type": "superset"
+        }
+      ],
+      "team": "KWrrJt7s2yJwaRgn2",
+      "owner": "KWrrJt7s2yJwaRgn2",
+      "ownerName": "Igor Herrero Zapirain",
+      "removed": false,
+      "public": false,
+      "createdAt": "2026-01-30T09:53:41.408Z",
+      "updatedAt": "2026-01-30T09:53:41.408Z"
+    }
+  },
+  {
+    "date": "Martes 24 Marzo",
+    "workout": {
+      "_id": "EYyBpZuijS75HkRTM",
+      "name": "Gi Power FUERZA (Press banca / KB Front + Gorila Row + Framer  // EMOM Kick + box over jump ) 45'*",
+      "description": "WARM UP: Realiza los ejercicios de manera suave y controlada, recuerda que estamos entrando en calor.\nACTIVATION EMON 8': Every Minute On the Minute. Tenemos que realizar cada uno de los ejercicios dentro del minuto. Puedes partir las repeticiones como consideres. No puedes empezar el siguiente ejercicio hasta que no finalice el minuto. El tiempo que te sobre dentro del minuto descansa.\n3 rondas de\nMin 1: 8+8 Landmine press \nMin2: 8+8 Rotaciones landmine\nMin3: 20-40\" Hollow\nSTRENGH: Dos bloques:\nPrimer bloque:\nPress banca 5x5 75% Puedes hacer un par de series previas para aproximar. Buscamos explosividad en cada series\nSegunda Bloque:\nFront squat + Gorila Row + Farmer carry. Todo seguido sin parón entre ejercicio. Puedes ajustar el peso de DB o la KB para que llegues justo a la última repetición.\nEMOM 8': Realiza las repeticiones de cada ronda dentro del minuto. El tiempo que te sobre utilízalo para descansar. \nMin 1: 20 Lateral kick\nMin 2: 16 Box Over jump\nSTRETCHING: Acompaña el estiramiento con respiraciones controladas inspirando por la nariz y expirando por la boca.",
+      "mode": "standard",
+      "exercises": [
+        {
+          "blockId": "block99573",
+          "status": "pending",
+          "titleBlock": "ACTIVATION. EMON 8'",
+          "descriptionBlock": "Every Minute On the Minute. Tenemos que realizar cada uno de los ejercicios dentro del minuto. Puedes partir las repeticiones como consideres. No puedes empezar el siguiente ejercicio hasta que no finalice el minuto. El tiempo que te sobre dentro del minuto descansa.\n3 rondas de\nMin 1: 8+8 Landmine press \nMin2: 8+8 Rotaciones landmine\nMin3: 20-40\" Hollow\n",
+          "type": "block"
+        },
+        {
+          "exerciseId": "superset34870",
+          "rounds": 3,
+          "status": "pending",
+          "supersetExercises": [
+            {
+              "supersetExerciseId": "neKXEEqi4rnJmpuiB_2",
+              "supersetName_provisional": "Landmine press unilateral de rodillas (Tall Kneeling 1 Arm Shoulder Landmine Press)",
+              "supersetNotes": "",
+              "supersetRest": "0",
+              "supersetTarget": "8+8",
+              "supersetUrl_provisional": "https://www.youtube.com/watch?v=amMl2a2d-W0"
+            },
+            {
+              "supersetExerciseId": "vRhdu6K8xD7P6Hgdo_1",
+              "supersetName_provisional": "Landmine Rotations",
+              "supersetNotes": "",
+              "supersetRest": "0",
+              "supersetTarget": "8+8",
+              "supersetUrl_provisional": "https://www.youtube.com/watch?v=QTv91SzQKd8",
+              "supersetImages_provisional": false
+            },
+            {
+              "supersetExerciseId": "EaQasYtPCkp7JYZdN_0",
+              "supersetName_provisional": "Hollow rock",
+              "supersetNotes": "",
+              "supersetRest": "0",
+              "supersetTarget": "20\"-40\"",
+              "supersetUrl_provisional": "https://www.youtube.com/watch?v=GqgmUR5BEWg",
+              "supersetImages_provisional": false
+            }
+          ],
+          "type": "superset"
+        },
+        {
+          "blockId": "block12167",
+          "status": "pending",
+          "titleBlock": "STRENGHT",
+          "descriptionBlock": "Dos bloques:\n- Primer bloque:\nPress banca 5x5 75% Puedes hacer un par de series previas para aproximar. Buscamos explosividad en cada series\n- Segunda Bloque:\nFront squat + Gorila Row + Farmer carry. Todo seguido sin parón entre ejercicio. Puedes ajustar el peso de DB o la KB para que llegues justo a la última repetición.\n",
+          "type": "block"
+        },
+        {
+          "exerciseId": "B6daYiQj9bbdMTWbn",
+          "name_provisional": "Press de banca con barra (Bench Press)",
+          "notes": "75% Lo más explosivo posible",
+          "rest": "90",
+          "sets": "5",
+          "status": "pending",
+          "target": "5",
+          "thumbnailUrl": "https://img.youtube.com/vi/o_BFLCmzrE0/mqdefault.jpg",
+          "images_provisional": false,
+          "url_provisional": "https://www.youtube.com/watch?v=o_BFLCmzrE0",
+          "type": "simple"
+        },
+        {
+          "exerciseId": "rest52050",
+          "rest": "120",
+          "status": "pending",
+          "type": "rest"
+        },
+        {
+          "exerciseId": "superset79619",
+          "rounds": 3,
+          "status": "pending",
+          "supersetExercises": [
+            {
+              "supersetExerciseId": "hgnf5arymfQnf2QaL_2",
+              "supersetName_provisional": "Sentadilla frontal con dos kb",
+              "supersetNotes": "",
+              "supersetRest": "0",
+              "supersetTarget": "10",
+              "supersetUrl_provisional": "https://www.youtube.com/shorts/e7y8jEUbQiQ",
+              "supersetImages_provisional": false
+            },
+            {
+              "supersetExerciseId": "sqqBxpz6vWHEb7qwb_1",
+              "supersetName_provisional": "kb gorila row",
+              "supersetNotes": "",
+              "supersetRest": "0",
+              "supersetTarget": "8+8",
+              "supersetUrl_provisional": "https://www.youtube.com/watch?v=Ln1j7lm6SrE",
+              "supersetImages_provisional": false
+            },
+            {
+              "supersetExerciseId": "XuXLYYYTxs8o3nsAS_0",
+              "supersetName_provisional": "DB Farmer carry dos manos bilateral",
+              "supersetNotes": "",
+              "supersetRest": "90",
+              "supersetTarget": "20m",
+              "supersetUrl_provisional": "https://www.youtube.com/watch?v=9539aIvAhm4",
+              "supersetImages_provisional": false
+            }
+          ],
+          "type": "superset"
+        },
+        {
+          "blockId": "block89735",
+          "status": "pending",
+          "titleBlock": "EMOM 8'",
+          "descriptionBlock": "Realiza las repeticiones de cada ronda dentro del minuto. El tiempo que te sobre utilízalo para descansar. \nMin 1: 20 Lateral kick\nMin 2: 16 Box Over jump\n\n",
+          "type": "block"
+        },
+        {
+          "exerciseId": "superset8678",
+          "rounds": "4",
+          "status": "pending",
+          "supersetExercises": [
+            {
+              "supersetExerciseId": "TxtuKe7p2NGXz7Q8x_1",
+              "supersetName_provisional": "Kick Through Patada lateral Bear Pose",
+              "supersetNotes": "",
+              "supersetRest": "0",
+              "supersetTarget": "20",
+              "supersetUrl_provisional": "https://www.youtube.com/watch?v=36dUu5D-F5c",
+              "supersetImages_provisional": false
+            },
+            {
+              "supersetExerciseId": "qeoHGEmmiqg7iHwaF_0",
+              "supersetName_provisional": "Box Jump Over",
+              "supersetNotes": "",
+              "supersetRest": "0",
+              "supersetTarget": "16",
+              "supersetUrl_provisional": "https://www.youtube.com/watch?v=HHX_8rNIrYE",
+              "supersetImages_provisional": false
+            }
+          ],
+          "type": "superset"
+        },
+        {
+          "blockId": "block64300",
+          "status": "pending",
+          "titleBlock": "STRETCHING",
+          "descriptionBlock": "Acompaña el estiramiento con respiraciones controladas inspirando por la nariz y expirando por la boca.",
+          "type": "block"
+        },
+        {
+          "exerciseId": "KELrDkvHQCwc9n2mL",
+          "name_provisional": "Circuito estiramiento / Stretching Circuit 6'",
+          "notes": "",
+          "rest": "0",
+          "sets": "1",
+          "status": "pending",
+          "target": "",
+          "thumbnailUrl": "https://img.youtube.com/vi/72MQmD8Z9Zw/mqdefault.jpg",
+          "images_provisional": false,
+          "url_provisional": "https://www.youtube.com/watch?v=72MQmD8Z9Zw&t=6s",
+          "type": "simple"
+        }
+      ],
+      "team": "KWrrJt7s2yJwaRgn2",
+      "owner": "KWrrJt7s2yJwaRgn2",
+      "ownerName": "Igor Herrero Zapirain",
+      "removed": false,
+      "public": false,
+      "createdAt": "2025-12-18T09:13:59.761Z",
+      "updatedAt": "2025-12-18T09:13:59.761Z"
+    }
+  },
+  {
+    "date": "Sábado 21 Marzo",
+    "workout": {
+      "_id": "F6bTugnFrm44jhqzG",
+      "name": "Gi Power FUERZA (Dominada lastrada / DB Front + Trusther + Press hombro  // EMOM Sw/Gb + KB Burpee ) 45'*",
+      "description": "OBJETIVO: Trabajo de fuerza INTENSIDAD 6/10        ESFUERZO: 9\nWARM UP: Realiza los ejercicios de manera suave y controlada, recuerda que estamos entrando en calor.\nACTIVATION EMON 8': Every Minute On the Minute. Tenemos que realizar cada uno de los ejercicios dentro del minuto. Puedes partir las repeticiones como consideres. No puedes empezar el siguiente ejercicio hasta que no finalice el minuto. El tiempo que te sobre dentro del minuto descansa.\n3 rondas de\nMin 1: Step up reverso\nMin2: Remo bird dog Izquierda\nMin3: Hollow\nMin4: Remo bird dog derecha\nSTRENGH: Dos bloques:\nPrimer bloque:\nDominada lastrada 5x5. Si no llego a 5 con lastre sin lastre. Si no llego a 5 utilizo gomas para ayudarme\nSegunda Bloque:\nSentadilla frontal + trusther + press de hombro. Todo seguido sin parón entre ejercicio. Puedes ajustar el peso de DB o la KB para que llegues justo a la última repetición.\nEMOM 8': Realiza las repeticiones de cada ronda dentro del minuto. El tiempo que te sobre utilízalo para descansar. \nMin 1: 10-15rep de Swing + Gobelt squat\nMin 2: 10-14rep Kb Facing burpee\nSTRETCHING: Acompaña el estiramiento con respiraciones controladas inspirando por la nariz y expirando por la boca.",
+      "mode": "standard",
+      "exercises": [
+        {
+          "blockId": "block99573",
+          "status": "pending",
+          "titleBlock": "ACTIVATION. EMON 8'",
+          "descriptionBlock": "Every Minute On the Minute. Tenemos que realizar cada uno de los ejercicios dentro del minuto. Puedes partir las repeticiones como consideres. No puedes empezar el siguiente ejercicio hasta que no finalice el minuto. El tiempo que te sobre dentro del minuto descansa.\n3 rondas de\nMin 1: Step up reverso\nMin2: Remo bird dog Izquierda\nMin3: Hollow\nMin4: Remo bird dog derecha\n",
+          "type": "block"
+        },
+        {
+          "exerciseId": "superset76992",
+          "rounds": 3,
+          "status": "pending",
+          "supersetExercises": [
+            {
+              "supersetExerciseId": "eGwm2ELyFhDorN3tQ_3",
+              "supersetName_provisional": "reverse step up negativo",
+              "supersetNotes": "",
+              "supersetRest": "0",
+              "supersetTarget": "7+7",
+              "supersetUrl_provisional": "https://www.youtube.com/watch?v=urgH20ssEx8",
+              "supersetImages_provisional": false
+            },
+            {
+              "supersetExerciseId": "aZqnYYFYNuLcRbhsG_1",
+              "supersetName_provisional": "Remo Bird Dog Row",
+              "supersetNotes": "Izq",
+              "supersetRest": "0",
+              "supersetTarget": "8-12",
+              "supersetUrl_provisional": "https://www.youtube.com/watch?v=ccgAJsgB_P4",
+              "supersetImages_provisional": false
+            },
+            {
+              "supersetExerciseId": "EaQasYtPCkp7JYZdN_2",
+              "supersetName_provisional": "Hollow rock",
+              "supersetNotes": "",
+              "supersetRest": "0",
+              "supersetTarget": "40\"",
+              "supersetUrl_provisional": "https://www.youtube.com/watch?v=GqgmUR5BEWg",
+              "supersetImages_provisional": false
+            },
+            {
+              "supersetExerciseId": "aZqnYYFYNuLcRbhsG_1_0",
+              "supersetName_provisional": "Remo Bird Dog Row",
+              "supersetNotes": "Dch",
+              "supersetRest": "0",
+              "supersetTarget": "8-12",
+              "supersetUrl_provisional": "https://www.youtube.com/watch?v=ccgAJsgB_P4",
+              "supersetImages_provisional": false
+            }
+          ],
+          "type": "superset"
+        },
+        {
+          "blockId": "block12167",
+          "status": "pending",
+          "titleBlock": "STRENGHT",
+          "descriptionBlock": "Dos bloques:\n- Primer bloque:\nDominada lastrada 5x5. Si no llego a 5 con lastre sin lastre. Si no llego a 5 utilizo gomas para ayudarme\n- Segunda Bloque:\nSentadilla frontal + trusther + press de hombro. Todo seguido sin parón entre ejercicio. Puedes ajustar el peso de DB o la KB para que llegues justo a la última repetición.\n",
+          "type": "block"
+        },
+        {
+          "exerciseId": "DdABEDRQFYFNEZRKp",
+          "name_provisional": "dominada lastrada / Weighted pull up",
+          "notes": "Si no llego a 5 con lastre sin lastre. Si no llego a 5 utilizo gomas para ayudarme",
+          "rest": "90",
+          "sets": "5",
+          "status": "pending",
+          "target": "5",
+          "thumbnailUrl": "https://img.youtube.com/vi/dntiFx5q22A/mqdefault.jpg",
+          "images_provisional": false,
+          "url_provisional": "https://www.youtube.com/watch?v=dntiFx5q22A",
+          "type": "simple"
+        },
+        {
+          "exerciseId": "rest52050",
+          "rest": "120",
+          "status": "pending",
+          "type": "rest"
+        },
+        {
+          "exerciseId": "superset5378",
+          "rounds": 3,
+          "status": "pending",
+          "supersetExercises": [
+            {
+              "supersetExerciseId": "Z5SLsqLCAoMcxJKmC_2",
+              "supersetName_provisional": "DB front squat",
+              "supersetNotes": "",
+              "supersetRest": "0",
+              "supersetTarget": "6",
+              "supersetUrl_provisional": "https://www.youtube.com/watch?v=B86Zj72LwzA",
+              "supersetImages_provisional": false
+            },
+            {
+              "supersetExerciseId": "E4H2PaTNXuy7jeQXj_1",
+              "supersetName_provisional": "DB Thrusther",
+              "supersetNotes": "",
+              "supersetRest": "0",
+              "supersetTarget": "6",
+              "supersetUrl_provisional": "https://www.youtube.com/watch?v=u3wKkZjE8QM",
+              "supersetImages_provisional": false
+            },
+            {
+              "supersetExerciseId": "5NAchpwrndP3zqCjQ_0",
+              "supersetName_provisional": "DB press hombro",
+              "supersetNotes": "",
+              "supersetRest": "60",
+              "supersetTarget": "6",
+              "supersetUrl_provisional": "https://www.youtube.com/watch?v=4tCaD42ghlc",
+              "supersetImages_provisional": false
+            }
+          ],
+          "type": "superset"
+        },
+        {
+          "blockId": "block89735",
+          "status": "pending",
+          "titleBlock": "EMOM 8'",
+          "descriptionBlock": "Realiza las repeticiones de cada ronda dentro del minuto. El tiempo que te sobre utilízalo para descansar. \nMin 1: 10-15rep de Swing + Gobelt squat\nMin 2: 10-14rep Kb Facing burpee\n\n",
+          "type": "block"
+        },
+        {
+          "exerciseId": "superset52223",
+          "rounds": "4",
+          "status": "pending",
+          "supersetExercises": [
+            {
+              "supersetExerciseId": "QzWSqCLDBAkcRFZzT_1",
+              "supersetName_provisional": "Kb Swing + Gobelt squat",
+              "supersetNotes": "",
+              "supersetRest": "0",
+              "supersetTarget": "10-14",
+              "supersetUrl_provisional": "https://www.youtube.com/watch?v=DrZ5d3CMpI0",
+              "supersetImages_provisional": false
+            },
+            {
+              "supersetExerciseId": "6gZgtFiwvEQd5dKuJ_0",
+              "supersetName_provisional": "KB Facing burpee",
+              "supersetNotes": "",
+              "supersetRest": "0",
+              "supersetTarget": "10-14",
+              "supersetUrl_provisional": "https://www.youtube.com/watch?v=h1ibnUmHlQo",
+              "supersetImages_provisional": false
+            }
+          ],
+          "type": "superset"
+        },
+        {
+          "blockId": "block64300",
+          "status": "pending",
+          "titleBlock": "STRETCHING",
+          "descriptionBlock": "Acompaña el estiramiento con respiraciones controladas inspirando por la nariz y expirando por la boca.",
+          "type": "block"
+        },
+        {
+          "exerciseId": "KELrDkvHQCwc9n2mL",
+          "name_provisional": "Circuito estiramiento / Stretching Circuit 6'",
+          "notes": "",
+          "rest": "0",
+          "sets": "1",
+          "status": "pending",
+          "target": "",
+          "thumbnailUrl": "https://img.youtube.com/vi/72MQmD8Z9Zw/mqdefault.jpg",
+          "images_provisional": false,
+          "url_provisional": "https://www.youtube.com/watch?v=72MQmD8Z9Zw&t=6s",
+          "type": "simple"
+        }
+      ],
+      "team": "KWrrJt7s2yJwaRgn2",
+      "owner": "KWrrJt7s2yJwaRgn2",
+      "ownerName": "Igor Herrero Zapirain",
+      "removed": false,
+      "public": false,
+      "createdAt": "2025-12-18T09:10:30.961Z",
+      "updatedAt": "2025-12-18T09:10:30.961Z"
+    }
+  }
+]
