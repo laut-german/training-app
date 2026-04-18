@@ -39,30 +39,32 @@ export default async function WorkoutDetailPage(props: {
   const done = workout.status === "completed";
 
   return (
-    <div className="flex flex-col min-h-screen max-w-md mx-auto">
-      {/* Header fijo */}
-      <header className="sticky top-0 z-10 bg-background/90 backdrop-blur-md border-b border-border px-4 py-3 flex items-center gap-3">
-        <Link
-          href="/workouts"
-          className="p-1.5 -ml-1.5 rounded-lg text-muted-foreground hover:text-foreground hover:bg-muted transition-colors"
-        >
-          <ArrowLeft className="w-5 h-5" />
-        </Link>
-        <div className="flex-1 min-w-0">
-          <RescheduleDateClient
-            workoutId={workout.id}
-            scheduledDate={workout.scheduled_date}
-            originalDate={workout.original_date}
-          />
+    <div className="flex flex-col min-h-screen">
+      {/* Header fijo — full width, contenido centrado */}
+      <header className="sticky top-0 z-10 bg-background/90 backdrop-blur-md border-b border-border">
+        <div className="max-w-2xl mx-auto px-4 py-3 flex items-center gap-3">
+          <Link
+            href="/workouts"
+            className="p-1.5 -ml-1.5 rounded-lg text-muted-foreground hover:text-foreground hover:bg-muted transition-colors"
+          >
+            <ArrowLeft className="w-5 h-5" />
+          </Link>
+          <div className="flex-1 min-w-0">
+            <RescheduleDateClient
+              workoutId={workout.id}
+              scheduledDate={workout.scheduled_date}
+              originalDate={workout.original_date}
+            />
+          </div>
+          {done ? (
+            <CheckCircle2 className="w-5 h-5 text-green-400 shrink-0" />
+          ) : (
+            <Circle className="w-5 h-5 text-muted-foreground shrink-0" />
+          )}
         </div>
-        {done ? (
-          <CheckCircle2 className="w-5 h-5 text-green-400 shrink-0" />
-        ) : (
-          <Circle className="w-5 h-5 text-muted-foreground shrink-0" />
-        )}
       </header>
 
-      <div className="flex-1 px-4 pb-16">
+      <div className="flex-1 max-w-2xl mx-auto w-full px-4 pb-16">
         {/* Título */}
         <div className="pt-5 pb-4">
           <h1 className="text-lg font-bold text-foreground leading-snug">{workout.name}</h1>
