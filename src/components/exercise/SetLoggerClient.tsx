@@ -117,6 +117,7 @@ function SetInput({
 
       <button
         onClick={handleSave}
+        onTouchEnd={(e) => { e.preventDefault(); handleSave(); }}
         disabled={isPending}
         className="h-9 w-9 flex items-center justify-center rounded-lg bg-primary text-primary-foreground disabled:opacity-50 shrink-0"
       >
@@ -124,6 +125,7 @@ function SetInput({
       </button>
       <button
         onClick={onCancel}
+        onTouchEnd={(e) => { e.preventDefault(); onCancel(); }}
         className="h-9 w-9 flex items-center justify-center rounded-lg bg-muted text-muted-foreground shrink-0"
       >
         <X className="w-4 h-4" />
@@ -174,7 +176,8 @@ export function SetLoggerClient({
         <div className="mb-2">
           <button
             onClick={() => setLogsOpen((v) => !v)}
-            className="flex items-center gap-1.5 text-xs text-green-400 font-medium"
+            onTouchEnd={(e) => { e.preventDefault(); setLogsOpen((v) => !v); }}
+            className="flex items-center gap-1.5 text-xs text-green-400 font-medium min-h-[44px] touch-manipulation cursor-pointer"
           >
             <Check className="w-3 h-3" />
             {existingLogs.length} {existingLogs.length === 1 ? "serie" : "series"} registrada{existingLogs.length > 1 ? "s" : ""}
@@ -196,7 +199,8 @@ export function SetLoggerClient({
       {!open ? (
         <button
           onClick={() => setOpen(true)}
-          className="flex items-center gap-1.5 text-xs font-medium text-muted-foreground hover:text-foreground transition-colors py-1"
+          onTouchEnd={(e) => { e.preventDefault(); setOpen(true); }}
+          className="flex items-center gap-1.5 text-xs font-medium text-muted-foreground hover:text-foreground min-h-[44px] touch-manipulation cursor-pointer"
         >
           <Plus className="w-3.5 h-3.5" />
           Registrar serie {nextSet}

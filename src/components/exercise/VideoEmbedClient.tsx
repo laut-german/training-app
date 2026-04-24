@@ -26,13 +26,14 @@ export function VideoEmbedClient({ videoUrl, thumbnailUrl, exerciseName }: Props
       {!open ? (
         <button
           onClick={() => setOpen(true)}
-          className="flex items-center gap-2 text-xs text-muted-foreground hover:text-foreground transition-colors"
+          onTouchEnd={(e) => { e.preventDefault(); setOpen(true); }}
+          className="flex items-center gap-2 text-xs text-muted-foreground hover:text-foreground py-1 touch-manipulation cursor-pointer"
         >
-          <div className="relative w-16 h-10 rounded overflow-hidden shrink-0">
+          <div className="relative w-20 h-12 rounded overflow-hidden shrink-0">
             {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img src={thumb} alt={exerciseName} className="w-full h-full object-cover" />
-            <div className="absolute inset-0 flex items-center justify-center bg-black/40">
-              <PlayCircle className="w-5 h-5 text-white" />
+            <img src={thumb} alt={exerciseName} className="w-full h-full object-cover pointer-events-none" />
+            <div className="absolute inset-0 flex items-center justify-center bg-black/40 pointer-events-none">
+              <PlayCircle className="w-6 h-6 text-white pointer-events-none" />
             </div>
           </div>
           <span>Ver video</span>
@@ -41,15 +42,16 @@ export function VideoEmbedClient({ videoUrl, thumbnailUrl, exerciseName }: Props
         <div className="relative">
           <button
             onClick={() => setOpen(false)}
-            className="absolute -top-1 -right-1 z-10 bg-muted rounded-full p-0.5"
+            onTouchEnd={(e) => { e.preventDefault(); setOpen(false); }}
+            className="absolute -top-2 -right-2 z-10 bg-muted rounded-full p-2 touch-manipulation cursor-pointer"
           >
             <X className="w-3.5 h-3.5 text-muted-foreground" />
           </button>
           <div className="w-full aspect-video rounded-lg overflow-hidden">
             <iframe
-              src={`https://www.youtube.com/embed/${videoId}?autoplay=1`}
+              src={`https://www.youtube.com/embed/${videoId}?autoplay=1&mute=1&playsinline=1`}
               title={exerciseName}
-              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
               allowFullScreen
               className="w-full h-full"
             />

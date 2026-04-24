@@ -67,7 +67,8 @@ export function ExerciseHistoryClient({ history, targetType }: Props) {
     <div className="mt-2">
       <button
         onClick={() => setOpen((v) => !v)}
-        className="flex items-center gap-1 text-xs text-muted-foreground hover:text-foreground transition-colors"
+        onTouchEnd={(e) => { e.preventDefault(); setOpen((v) => !v); }}
+        className="flex items-center gap-1 text-xs text-muted-foreground hover:text-foreground min-h-[44px] touch-manipulation cursor-pointer"
       >
         {open ? <ChevronUp className="w-3 h-3" /> : <ChevronDown className="w-3 h-3" />}
         Historial ({history.length})

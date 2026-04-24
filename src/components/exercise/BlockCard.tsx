@@ -55,7 +55,7 @@ export function BlockCard({ block, workoutId, logs, historyMap }: Props) {
 
   // Superset
   return (
-    <div className="rounded-xl bg-card border border-border overflow-hidden">
+    <div className="rounded-xl bg-card border border-border overflow-hidden [transform:translateZ(0)]">
       {/* Header superset */}
       <div className="flex items-center gap-2 px-4 py-2.5 border-b border-border bg-muted/30">
         <Repeat2 className="w-3.5 h-3.5 text-muted-foreground" />
