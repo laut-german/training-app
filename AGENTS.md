@@ -42,3 +42,8 @@ Full context in `ARCHITECTURE.md`. These rules apply to every file you touch:
 ## Figma MCP — Design Tokens & Assets
 **When to use:** When the user references a Figma design or needs design tokens, colors, spacing, or assets from Figma.
 **Status:** Configured but may require re-authentication if failing to connect.
+
+<!-- SPECKIT START -->
+For additional context about technologies to be used, project structure,
+shell commands, and other important information, read the current plan
+<!-- SPECKIT END -->
