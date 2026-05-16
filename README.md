@@ -1,4 +1,18 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Training App
+
+Training App is a Next.js 16 and Supabase application for planning workouts,
+tracking execution, and reviewing progress.
+
+## Architecture Rules
+
+- Reads live in `src/lib/repositories/` and stay read-only.
+- Writes live in `src/lib/actions/` as Next.js Server Actions.
+- Routes in `src/app/` orchestrate data and pass props down to components.
+- Interactive components use the `Client` suffix and never import repositories.
+- `src/components/ui/` contains shadcn primitives and is not edited directly.
+
+See `AGENTS.md`, `ARCHITECTURE.md`, and `.specify/memory/constitution.md` for the
+full working rules.
 
 ## Getting Started
 
@@ -16,9 +30,9 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Most feature work starts from a route in `src/app/`, a read model in
+`src/lib/repositories/`, and a matching interaction path through a `*Client.tsx`
+component and `src/lib/actions/`.
 
 ## Learn More
 
